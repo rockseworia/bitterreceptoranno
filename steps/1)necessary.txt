@@ -1,0 +1,22 @@
+## Important things before
+
+First, you should have a server Server instance or WSL. I'm not sure if google colab can handle this, I strongly suggest you to have one, as it's essential for bioinformatics scientist.
+
+Second, you need a tools to do BLAST. If you are familiar to command line, you can go to NCBI and download the BLAST software, otherwise, you can try TBtools, an integrated bioinformatics software with GUI, include BLAST(It's a wonderful software, I strongly suggest you to download it, you WILL need it anyway)
+
+You need to download some software, but most of this are pretty simple to install. We will leave it to next episode.
+
+
+
+
+
+
+
+
+
+
+
+## Reference
+
+
+Chen C, Chen H, Zhang Y, Thomas HR, Frank MH, He Y, Xia R. TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data. Mol Plant. 2020 Aug 3;13(8):1194-1202. doi: 10.1016/j.molp.2020.06.009. Epub 2020 Jun 23. PMID: 32585190.
